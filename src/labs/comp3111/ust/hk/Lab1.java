@@ -5,6 +5,7 @@ public class Lab1 {
 	//no need compile
 	public static void main(String[] args){
 		System.out.println("Lab 1: Introduction to Git and GitHub");
+		System.out.println("Congratulation! You learned the Git Basics");
 	}
 
 }
